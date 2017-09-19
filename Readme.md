@@ -4,7 +4,7 @@ How to run
 ===========================
 Navigate into bin folder and please run 
 
-java dataList <SeedFile> <output>
+java dataList [SeedFile] [output]
  
 The algorithm 
 ===========================================
