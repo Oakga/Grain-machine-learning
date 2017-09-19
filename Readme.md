@@ -1,6 +1,11 @@
 Introduction 
 ============================
+How to run
+===========================
+Navigate into bin folder and please run 
 
+java dataList <SeedFile> <output>
+ 
 The algorithm 
 ===========================================
 The K-means algorithm is a method for clustering a set of data
